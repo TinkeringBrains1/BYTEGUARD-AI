@@ -2,7 +2,7 @@
 
 **A Next-Generation AI Firewall powered by Federated Learning, Mamba State Space Models, and Supervised Contrastive Learning.**
 
-> **Research Concept:** Traditional Transformers are too slow ($O(N^2)$) for real-time packet filtering. This project utilizes **Mamba (State Space Models)** for linear-time $O(N)$ inference, trained via **Federated Learning** to preserve privacy, and refined with **Supervised Contrastive Learning (SCL)** to detect zero-day SQL injection patterns.
+> **Research Concept:** Traditional Transformers are too slow $(O(N^2))$ for real-time packet filtering. This project utilizes **Mamba (State Space Models)** for linear-time $O(N)$ inference, trained via **Federated Learning** to preserve privacy, and refined with **Supervised Contrastive Learning (SCL)** to detect zero-day SQL injection patterns.
 
 ##  The Tech Stack
 | Component | Technology | Why? |
