@@ -7,7 +7,7 @@
 ## 🌟 The Tech Stack
 | Component | Technology | Why? |
 | :--- | :--- | :--- |
-| **Backbone** | **Mamba-SSM (130M)** | 5x faster inference than BERT; handles long sequences efficiently. |
+| **Backbone** | **Mamba-SSM (30M)** | 5x faster inference than BERT; handles long sequences efficiently. |
 | **Privacy** | **Federated Learning** | Trains on distributed client data without raw SQL logs leaving the source. |
 | **Optimization** | **Supervised Contrastive Loss** | Pushes "Attack" vectors apart from "Normal" vectors in embedding space. |
 | **Deployment** | **FastAPI + Async** | Real-time blocking of malicious requests. |
